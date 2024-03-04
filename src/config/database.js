@@ -6,5 +6,7 @@ password: 'postgres',
 database: 'codeburger',
 define:{
 timespamps: true,
+underscored: true,
+underscoredAll: true,
 }
 }
